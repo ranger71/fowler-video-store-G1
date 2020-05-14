@@ -8,6 +8,7 @@ import core.Customer;
 import core.Movie;
 import core.Rental;
 
+
 public class CustomerStatementTests {
 
 	@Test

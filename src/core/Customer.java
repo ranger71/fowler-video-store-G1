@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import core.Movie.PriceCode;
-
+// user2 test update
 public class Customer {
 
 	private String name;
